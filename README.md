@@ -190,6 +190,7 @@ The improvements regarding the application(Ghost) can be divided into the follow
 - Application should be hosted using HTTPS.
 - Admin and Application should be separate domains with separate access controls.
 - Firewall and Loadbalancers, mentioned for infrastructure already.
+- Access control for the database
 
 ##### Scale
 
