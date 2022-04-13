@@ -6,6 +6,7 @@ variable "aws-region" {
 variable "aws-profile" {
   description = "The name of the AWS shared credentials account."
   type        = string
+  default     = ""
 }
 
 variable "instance-type" {

@@ -1,4 +1,5 @@
 *.swp
 .terraform*
 */.terraform
+*.tfstate
 *errored.tfstate

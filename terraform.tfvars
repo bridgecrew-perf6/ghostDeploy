@@ -1,6 +1,6 @@
 aws-region        = "eu-west-2"
 #Enter a valid profile here or set the ENV VARIABLES
-aws-profile       = "muawiakh-dev"
+#aws-profile       = "muawiakh-dev"
 user-data-script  = "./scripts/ghost.sh"
 #instance-key-name = "deployer-key"
 instance-tag-name = "Ghost-Maker-instance"
