@@ -1,4 +1,4 @@
-# Basic: Deploy GHost on AWS
+# PoC: Deploy GHost on AWS
 
 This repository offer a [Terraform](https://www.terraform.io/) module to deploy a publishing platform/app [Ghost](https://ghost.org/docs/).
 
