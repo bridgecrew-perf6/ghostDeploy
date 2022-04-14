@@ -200,3 +200,10 @@ The improvements regarding the application(Ghost) can be divided into the follow
 - Better monitoring/alerting of the events/requests/logs of the application.
 - Deployed in multiple zones/dcs.
 - Caching layers for READ operations since a blog might have more read than write operations.
+
+#### Improvements: Reliability
+
+There are a number of improvements that can be made in terms of the reliability of the service we are hosting:
+
+- Gathering logging/events information from the app, database and infrastructure.
+- Defining Objectives for the service e.g. availability, latency, saturation etc and monitoring those which can be accomplished with a stack using e.g. `Prometheus`, `Grafana`, `Paging Service`
